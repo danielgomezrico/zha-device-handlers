@@ -187,6 +187,7 @@ class TuyaDoubleSwitchTO(TuyaSwitch):
         MODELS_INFO: [
             ("_TZE200_g1ib5ldv", "TS0601"),
             ("_TZE200_wunufsil", "TS0601"),
+            ("_TZE204_zenj4lxv", "TS0601"),
         ],
         ENDPOINTS: {
             1: {
